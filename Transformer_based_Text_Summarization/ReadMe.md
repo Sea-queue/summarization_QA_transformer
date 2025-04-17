@@ -3,9 +3,10 @@ In this project, we built a Transformer-based text summarizer from scratch using
 
 
 How to Run:
-1. Install dependencies:
-pip install datasets tokenizers rouge_score bert_score nltk
-Note: The code to install the dependencies is already present in the notebook . You can run it by executing the cell containing the code.
+1. Install dependencies:<br>
+```pip install datasets tokenizers rouge_score bert_score nltk```<br>
+
+<i>Note: The code to install the dependencies is already present in the notebook . You can run it by executing the cell containing the code.
 
 2. Run the notebook cells in order.
 
